@@ -5,7 +5,7 @@
 * My [Instagram](https://www.instagram.com/venismendes/)!
 
 ### The statistics of my public projects
-![github stats](https://github-readme-stats.vercel.app/api?username=venismendes&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=venismendes&count_private=true)
 
 ### Languages
 ![languages status](https://github-readme-stats.vercel.app/api/top-langs/?username=venismendes&layout=compact)
