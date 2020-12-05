@@ -2,7 +2,8 @@
 
 * I like to code and solve logical problems!
 * My native language is portuguese.
-* My [Instagram](https://www.instagram.com/venismendes/)!
+* My [Instagram](https://www.instagram.com/venismendes/).
+* My Discord username Venis ☢#3616.
 
 ### The statistics of my public projects
 ![github stats](https://github-readme-stats.vercel.app/api?username=venismendes&count_private=true)
