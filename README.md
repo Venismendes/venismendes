@@ -5,12 +5,7 @@
 * My [Instagram](https://www.instagram.com/venismendes/).
 * My Discord username Venis#3616.
 
-### The statistics of my public projects
-![github stats](https://github-readme-stats.vercel.app/api?username=venismendes&count_private=true)
-
 ### Languages
-![languages status](https://github-readme-stats.vercel.app/api/top-langs/?username=venismendes&layout=compact)
-
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Java](https://img.shields.io/badge/-Java-yellowgreen)
