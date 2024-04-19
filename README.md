@@ -3,7 +3,7 @@
 * I like to code and solve logical problems!
 * My native language is portuguese.
 * My [Instagram](https://www.instagram.com/venismendes/).
-* My Discord username Venis#3616.
+* My Discord username .venis!
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-blue)
